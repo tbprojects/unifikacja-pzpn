@@ -1,4 +1,25 @@
-# UnifikacjaPzpn
+# Unifikacja PZPN - Rozgrywki Młodzieżowe
+
+Aplikacja Angular wyświetlająca informacje o unifikacji w rozgrywkach młodzieżowych PZPN. Umożliwia dynamiczne przeglądanie kategorii wiekowych i zasad rozgrywek dla różnych sezonów piłkarskich.
+
+## Funkcjonalności
+
+- **Wybór sezonu**: Możliwość przełączania między sezonami piłkarskimi (poprzedni/następny)
+- **Automatyczne obliczanie roczników**: Dynamiczne przeliczanie roczników zawodników na podstawie wybranego sezonu
+- **Kategorie wiekowe**: Wyświetlanie 6 kategorii wiekowych (Junior Starszy, Junior Młodszy, Trampkarz, Młodzik, Orlik, Żak, Skrzat)
+- **Szczegółowe zasady**: Kompletna tabela z zasadami unifikacji dla każdej kategorii wiekowej
+- **Responsywny design**: Pełna responsywność na urządzenia mobilne i desktopowe
+- **Nowoczesny UI**: Piękny gradient i animacje
+
+## Technologie
+
+- Angular 21.0.0
+- TypeScript
+- SCSS
+- Signals (reaktywne zarządzanie stanem)
+- Standalone Components
+
+---
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.0.
 
